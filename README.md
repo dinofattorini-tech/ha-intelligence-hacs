@@ -1,4 +1,4 @@
-ENG : HA Intelligence — HACS Integration
+# Intelligence — HACS Integration
 Connect your Home Assistant to the HA Intelligence backend.
 
 Installation
@@ -11,7 +11,7 @@ Paste your API key from the dashboard at https://ha-intelligence.netlify.app
 
 
 
-ITA : # HA Intelligence — Integrazione HACS
+# HA Intelligence — Integrazione HACS
 
 Collega il tuo Home Assistant al backend HA Intelligence.
 
