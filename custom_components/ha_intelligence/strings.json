@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "HA Intelligence",
+        "description": "Copia la tua API Key dal pannello su ha-intelligence.netlify.app",
+        "data": {
+          "api_key": "API Key (hai_live_...)",
+          "backend_url": "URL Backend"
+        }
+      }
+    },
+    "error": {
+      "invalid_api_key": "API Key non valida.",
+      "cannot_connect": "Impossibile connettersi al server."
+    }
+  }
+}

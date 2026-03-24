@@ -1,0 +1,11 @@
+{
+  "domain": "ha_intelligence",
+  "name": "HA Intelligence",
+  "version": "1.0.0",
+  "documentation": "https://ha-intelligence.netlify.app",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
