@@ -20,7 +20,7 @@ Register at [ha-intelligence.netlify.app](https://ha-intelligence.netlify.app/lo
 4. Go to **Settings → Devices & Services → Add Integration**, search for "HA Intelligence," and paste your **API Key**.
 
 ### 3. Configure Claude Desktop
-Ensure you have Python 3.10+ installed on your PC. Open your configuration file:
+You must manually locate or create your `claude_desktop_config.json` file. Common locations include:
 - **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
 - **Mac:** `~/Library/Application Support/Claude/claude_desktop_config.json`
 
